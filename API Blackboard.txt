@@ -1,0 +1,43 @@
+App key : 8c5f0552-1091-456f-ba0f-be209b8d9704
+
+Secret: OdC7bsOe48Bqm40Zh0RUOFmZkpSKLBZ6
+
+App ID: 763c13a4-8a3f-45a8-92cf-8859ee94c016
+
+Issuer: https://blackboard.com
+
+Public keyset URL: https://developer.blackboard.com/api/v1/management/applications/763c13a4-8a3f-45a8-92cf-8859ee94c016/jwks.json
+
+Auth token endpoint: https://developer.blackboard.com/api/v1/gateway/oauth2/jwttoken
+
+OIDC auth request endpoint: https://developer.blackboard.com/api/v1/gateway/oidcauth
+
+Tool private key: 
+-----BEGIN PRIVATE KEY-----
+MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCB2sjqrbvXzbmb
+tJbm4eZugv2Q3VwSw6TAcpHZmkweRMj4Z2LySVKCQPbH880n5KYktgDw2yNFVLiL
+aYL1cHXAAvoSA3NCjeEVk+JSskL7PDAgBCRWpe6aYBcnyEiw+wADbHTd2AMmcxWP
+k2E4Cir8/ebNIj/zrbhO1dOEobJoMy4YIbxWIZjUppSDHtAJ4pjqh7op+5w0tZqQ
+oX8NFjz1J8vChCYSDlS5Z5SsP+hk2G5wwg3UC3KDak2zsKvIePjfiE51fLjsh7k4
+rhOzNkvoYvKXl8dpY5BzMUNc2wIpG7TeaLxhMLdiPhmY2eolO2W85rQ4LL5k0pco
+imRm9h0XAgMBAAECggEAN85TzG9vq/Xwz5bTx1PMGTBYUtqfCD1mX4KdZbwm/Fcp
+W3/rCR8zw2Cx7gq732oncN17GAfFZ7VaPifRLTPwlt1wpS8waKja09AjUtDjcl9S
+e1/sUgSrv1KOgP1VKCImxlHlA7Yi3HJXEMYQ4OmVwfZIK16Nx2agL9k7NuPa7WZ8
+rw85fB+OvrrhPD1BucC3EqE6c2E577A5feVS8qJ9L0ndlYCgpy54DOkDnym5noXq
+iCB1tS/WKJx45MdWkTYY9CzqoU9AvBZCA0lqGAJU6QWe5Pq2Al/0/OVnY9aLlg9W
+4//6wEGfmPp1JlM75oG7etVMSMCw1WVbf371gVSY0QKBgQC4GI0DMLAr0eKzJYtG
+/KOEsDtxbHh2LPNgzFSArce+lj+nU+ngTmSWNrYkOw78GiJbHPUDjgyOOv9u3XbJ
+0RefJkWP8MGZ+gkYKXMyH8oBwzdzmydfEmXuTmVZbjIwgPsyMnATzidhCWOOeDmm
+XhvgDzO6utSZWjK5VOgVBcDiDwKBgQC0krzLAOmtq1//lht0/dhad3dZNrGXjBtA
+7+mxy5xWBCr8dDfHjVXSE4ofiWbetc43Vrf7UyJDnc4/i22dpWzWfW1UTtnFA8Fa
+TbAQ5BGGUChOc/CMbsAfcOXMKaGic1ZIfPQduWF8kjmNfh1zFwfMmzIBZ+vLgtse
+3vt+hfR8eQKBgD5SQVp1Hw6WjPIsoYu0dv6yUk1BdT48VV/NjEXLjrUcVAwnQiNn
+JnIbr2lwfNAnYL4LfX5oliOIIXS8kDweBqsf36iszj18AZwmXBL54/7YwWrneVqb
+9dnIvFKcFW2KHH+Px5VM0tPsw8E1Pf7uGO2u98oc+V+4wzcuYSrMudFNAoGAHXv8
+QbVzcn0SHryW3SJ5ykPJhBKvKsygwpip8vMJIu5pSnF7jiTgx32TRxT7bBAJjPWm
+8u2fIaVJwQx2KJCTVe6DBIofetDjKGiZABkNV34NJso9k+CdlESt8Qk3MDxe8VUd
+0yCq71k89oKKMnmnN1x77MjYMpG6T68fJ4id5BkCgYBLmzUa965Y6jp5Slla8Yfm
+8HkAYdPKMe25ognr5i/U5NlrOaWfm2hyca8NQsnG2cIItzH7R8BpgK5W63y2jwwh
+ktsC6Kvbl2TLFzRDcGAuDOlTeoqbE1NQ+nll3f3sIMZ2OvCFvYc3yysTtgArd/C+
+EAmYAeNSpGHzViuGapp5nA==
+-----END PRIVATE KEY-----
